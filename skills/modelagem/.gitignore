@@ -1,0 +1,7 @@
+# Conteúdo de terceiros (quadros, transcrições e legendas completas dos vídeos dos criadores): fica só na máquina local.
+dados/midia/
+dados/dossie/
+# Binário compilado; o atualizar_base.sh recompila a partir de scripts/ocr.swift.
+scripts/ocr
+.DS_Store
+__pycache__/

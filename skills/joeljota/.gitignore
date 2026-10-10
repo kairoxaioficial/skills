@@ -1,0 +1,6 @@
+# Conteúdo de terceiros (quadros, transcrições e legendas completas dos vídeos do @joeljota): fica só na máquina local.
+dados/midia/
+dados/fichas/
+dados/joeljota.json
+.DS_Store
+__pycache__/
